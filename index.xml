@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>emilygong_zhuying</title>
+    <link>https://emilygong-zhuying.github.io/</link>
+    <description>Recent content on emilygong_zhuying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jun 2022 12:13:56 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://emilygong-zhuying.github.io/projects/</link>
+      <pubDate>Tue, 28 Jun 2022 12:19:23 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/projects/</guid>
+      <description>projects</description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://emilygong-zhuying.github.io/personal/</link>
+      <pubDate>Tue, 28 Jun 2022 12:19:16 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/personal/</guid>
+      <description>personal</description>
+    </item>
+    
+    
+    <item>
+      <title>First Blog</title>
+      <link>https://emilygong-zhuying.github.io/posts/firstblog/</link>
+      <pubDate>Tue, 28 Jun 2022 12:13:56 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/posts/firstblog/</guid>
+      <description>A beautiful view of Royce Hall, captured on Wednesday, June 22nd.</description>
+    </item>
+    
+  </channel>
+</rss>
