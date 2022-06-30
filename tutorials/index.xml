@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutorials on emilygong-zhuying</title>
+    <link>https://emilygong-zhuying.github.io/tutorials/</link>
+    <description>Recent content in Tutorials on emilygong-zhuying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jun 2022 18:46:00 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fetch Data through the Spotify API</title>
+      <link>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</link>
+      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</guid>
+      <description>coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>💡 How to Make a Hugo Website</title>
+      <link>https://emilygong-zhuying.github.io/tutorials/hugowebsite/</link>
+      <pubDate>Wed, 29 Jun 2022 18:45:24 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tutorials/hugowebsite/</guid>
+      <description>Why building a website with Hugo? In short, it&amp;rsquo;s a really fast and simple way to have a static website to yourself, through which you can display your recent projects, share your thoughts, and have fun with it.
+Before we officially start&amp;hellip; The tutorial is based on macOS and I&amp;rsquo;m using GitHub for deployment.
+🛠 Tools you&amp;rsquo;ll need Terminal A text editor like VSCode GitHub hugo Setting up Open your terminal - easy!</description>
+    </item>
+    
+  </channel>
+</rss>

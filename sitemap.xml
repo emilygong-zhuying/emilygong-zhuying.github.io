@@ -2,14 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://emilygong-zhuying.github.io/about/</loc>
+    <lastmod>2022-06-29T19:30:03-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tags/api/</loc>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
+  </url><url>
     <loc>https://emilygong-zhuying.github.io/</loc>
-    <lastmod>2022-06-29T16:01:36-07:00</lastmod>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
   </url><url>
-    <loc>https://emilygong-zhuying.github.io/personal/</loc>
-    <lastmod>2022-06-29T16:01:36-07:00</lastmod>
+    <loc>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</loc>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
   </url><url>
-    <loc>https://emilygong-zhuying.github.io/personal/secondblog/</loc>
-    <lastmod>2022-06-29T16:01:36-07:00</lastmod>
+    <loc>https://emilygong-zhuying.github.io/tags/jupyternotebook/</loc>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tags/python/</loc>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tags/spotify/</loc>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tags/</loc>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tutorials/</loc>
+    <lastmod>2022-06-29T18:46:00-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tutorials/hugowebsite/</loc>
+    <lastmod>2022-06-29T18:45:24-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tags/hugo/</loc>
+    <lastmod>2022-06-29T18:45:24-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tags/website/</loc>
+    <lastmod>2022-06-29T18:45:24-07:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/tags/eda/</loc>
     <lastmod>2022-06-29T12:14:32-07:00</lastmod>
@@ -20,12 +47,6 @@
     <loc>https://emilygong-zhuying.github.io/projects/</loc>
     <lastmod>2022-06-29T12:14:32-07:00</lastmod>
   </url><url>
-    <loc>https://emilygong-zhuying.github.io/tags/spotify/</loc>
-    <lastmod>2022-06-29T12:14:32-07:00</lastmod>
-  </url><url>
-    <loc>https://emilygong-zhuying.github.io/tags/</loc>
-    <lastmod>2022-06-29T12:14:32-07:00</lastmod>
-  </url><url>
     <loc>https://emilygong-zhuying.github.io/tags/visualization/</loc>
     <lastmod>2022-06-29T12:14:32-07:00</lastmod>
   </url><url>
@@ -33,6 +54,9 @@
     <lastmod>2022-06-28T12:16:28-07:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/personal/firstblog/</loc>
+    <lastmod>2022-06-28T12:13:56-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/personal/</loc>
     <lastmod>2022-06-28T12:13:56-07:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/tags/photography/</loc>

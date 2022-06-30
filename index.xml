@@ -6,14 +6,34 @@
     <description>Recent content on emilygong-zhuying</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 16:01:36 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 18:46:00 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Blog</title>
-      <link>https://emilygong-zhuying.github.io/personal/secondblog/</link>
-      <pubDate>Wed, 29 Jun 2022 16:01:36 -0700</pubDate>
+      <title>About</title>
+      <link>https://emilygong-zhuying.github.io/about/</link>
+      <pubDate>Wed, 29 Jun 2022 19:30:03 -0700</pubDate>
       
-      <guid>https://emilygong-zhuying.github.io/personal/secondblog/</guid>
-      <description>testing</description>
+      <guid>https://emilygong-zhuying.github.io/about/</guid>
+      <description>Hey! My name is Emily Gong, I&amp;rsquo;m a rising third year studying Math of Comp and Linguistics at UCLA.</description>
+    </item>
+    
+    <item>
+      <title>How to Fetch Data through the Spotify API</title>
+      <link>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</link>
+      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</guid>
+      <description>coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>💡 How to Make a Hugo Website</title>
+      <link>https://emilygong-zhuying.github.io/tutorials/hugowebsite/</link>
+      <pubDate>Wed, 29 Jun 2022 18:45:24 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tutorials/hugowebsite/</guid>
+      <description>Why building a website with Hugo? In short, it&amp;rsquo;s a really fast and simple way to have a static website to yourself, through which you can display your recent projects, share your thoughts, and have fun with it.
+Before we officially start&amp;hellip; The tutorial is based on macOS and I&amp;rsquo;m using GitHub for deployment.
+🛠 Tools you&amp;rsquo;ll need Terminal A text editor like VSCode GitHub hugo Setting up Open your terminal - easy!</description>
     </item>
     
     <item>
@@ -32,7 +52,7 @@
       <pubDate>Tue, 28 Jun 2022 12:13:56 -0700</pubDate>
       
       <guid>https://emilygong-zhuying.github.io/personal/firstblog/</guid>
-      <description>This is my first time building a website and I&amp;rsquo;m hoping to add more fun stuff to it, like my data science projects and maybe some drawing. Wish me luck!</description>
+      <description>This is my first time building a website and I&amp;rsquo;m hoping to add more fun stuff to it, like my data science projects, some design projects, and maybe some drawing + photography? We will see ;)</description>
     </item>
     
   </channel>
