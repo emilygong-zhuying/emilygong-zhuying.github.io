@@ -13,25 +13,7 @@
       <pubDate>Thu, 30 Jun 2022 11:37:41 -0700</pubDate>
       
       <guid>https://emilygong-zhuying.github.io/tutorials/embedding/</guid>
-      <description>What is a shortcode? It&amp;rsquo;s basically a block-level html code; you can write shortcodes yourself and find ones online that others have written for you. You have two sets of curly braces and a set of angle brackets { { &amp;lt; short code &amp;gt; } } at the beginning of the shortcode and { { &amp;lt; /short code &amp;gt; } } at the end of the shortcode. (For some reason the website won&amp;rsquo;t compile if I actually type it out correctly, which is without the spaces between each symbols.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://emilygong-zhuying.github.io/about/</link>
-      <pubDate>Wed, 29 Jun 2022 19:30:03 -0700</pubDate>
-      
-      <guid>https://emilygong-zhuying.github.io/about/</guid>
-      <description>Hey! My name is Emily Gong, I&amp;rsquo;m a rising third year studying Math of Comp and Linguistics at UCLA.</description>
-    </item>
-    
-    <item>
-      <title>How to Fetch Data through the Spotify API</title>
-      <link>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</link>
-      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
-      
-      <guid>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</guid>
-      <description>coming soon&amp;hellip;</description>
+      <description>What is a shortcode? It&amp;rsquo;s basically a block-level html code; you can write shortcodes yourself and find ones online that others have written for you. You have two sets of curly braces and a set of angle brackets { { &amp;lt; short code &amp;gt; } }. (For some reason the website won&amp;rsquo;t compile if I actually type it out correctly, which is without the spaces between each symbols.) Some shortcodes have opening and closing tags like html and some do not.</description>
     </item>
     
     <item>
@@ -54,25 +36,6 @@ Tools you&amp;rsquo;ll need Terminal A text editor like VSCode A GitHub account 
       <description>Read more on Medium
 Check out our GitHub</description>
     </item>
-    
-    <item>
-      <title>Second Project</title>
-      <link>https://emilygong-zhuying.github.io/projects/secondproject/</link>
-      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
-      
-      <guid>https://emilygong-zhuying.github.io/projects/secondproject/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third Project</title>
-      <link>https://emilygong-zhuying.github.io/projects/thirdproject/</link>
-      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
-      
-      <guid>https://emilygong-zhuying.github.io/projects/thirdproject/</guid>
-      <description></description>
-    </item>
-    
     
     <item>
       <title>Hello World!</title>

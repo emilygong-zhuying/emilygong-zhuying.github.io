@@ -13,16 +13,7 @@
       <pubDate>Thu, 30 Jun 2022 11:37:41 -0700</pubDate>
       
       <guid>https://emilygong-zhuying.github.io/tutorials/embedding/</guid>
-      <description>What is a shortcode? It&amp;rsquo;s basically a block-level html code; you can write shortcodes yourself and find ones online that others have written for you. You have two sets of curly braces and a set of angle brackets { { &amp;lt; short code &amp;gt; } } at the beginning of the shortcode and { { &amp;lt; /short code &amp;gt; } } at the end of the shortcode. (For some reason the website won&amp;rsquo;t compile if I actually type it out correctly, which is without the spaces between each symbols.</description>
-    </item>
-    
-    <item>
-      <title>How to Fetch Data through the Spotify API</title>
-      <link>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</link>
-      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
-      
-      <guid>https://emilygong-zhuying.github.io/tutorials/spotifyapi/</guid>
-      <description>coming soon&amp;hellip;</description>
+      <description>What is a shortcode? It&amp;rsquo;s basically a block-level html code; you can write shortcodes yourself and find ones online that others have written for you. You have two sets of curly braces and a set of angle brackets { { &amp;lt; short code &amp;gt; } }. (For some reason the website won&amp;rsquo;t compile if I actually type it out correctly, which is without the spaces between each symbols.) Some shortcodes have opening and closing tags like html and some do not.</description>
     </item>
     
     <item>

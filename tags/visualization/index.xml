@@ -17,23 +17,5 @@
 Check out our GitHub</description>
     </item>
     
-    <item>
-      <title>Second Project</title>
-      <link>https://emilygong-zhuying.github.io/projects/secondproject/</link>
-      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
-      
-      <guid>https://emilygong-zhuying.github.io/projects/secondproject/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third Project</title>
-      <link>https://emilygong-zhuying.github.io/projects/thirdproject/</link>
-      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
-      
-      <guid>https://emilygong-zhuying.github.io/projects/thirdproject/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
