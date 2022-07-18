@@ -6,7 +6,16 @@
     <description>Recent content on emilygong-zhuying</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 18:46:00 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 11:37:41 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Shortcode and Create your Own?</title>
+      <link>https://emilygong-zhuying.github.io/tutorials/embedding/</link>
+      <pubDate>Thu, 30 Jun 2022 11:37:41 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tutorials/embedding/</guid>
+      <description>What is a shortcode? It&amp;rsquo;s basically a block-level html code; you can write shortcodes yourself and find ones online that others have written for you. You have two sets of curly braces and a set of angle brackets { { &amp;lt; short code &amp;gt; } } at the beginning of the shortcode and { { &amp;lt; /short code &amp;gt; } } at the end of the shortcode. (For some reason the website won&amp;rsquo;t compile if I actually type it out correctly, which is without the spaces between each symbols.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://emilygong-zhuying.github.io/about/</link>
@@ -32,8 +41,8 @@
       
       <guid>https://emilygong-zhuying.github.io/tutorials/hugowebsite/</guid>
       <description>Why building a website with Hugo? In short, it&amp;rsquo;s a really fast and simple way to have a static website to yourself, through which you can display your recent projects, share your thoughts, and have fun with it.
-Before we officially start&amp;hellip; The tutorial is based on macOS and I&amp;rsquo;m using GitHub for deployment.
-🛠 Tools you&amp;rsquo;ll need Terminal A text editor like VSCode GitHub hugo Setting up Open your terminal - easy!</description>
+Before we officially start&amp;hellip; The tutorial is based on macOS and I&amp;rsquo;m using GitHub Pages for deployment.
+Tools you&amp;rsquo;ll need Terminal A text editor like VSCode A GitHub account hugo Setting up Open your terminal - easy!</description>
     </item>
     
     <item>
@@ -42,7 +51,26 @@ Before we officially start&amp;hellip; The tutorial is based on macOS and I&amp;
       <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
       
       <guid>https://emilygong-zhuying.github.io/projects/firstproject/</guid>
-      <description>Read more on Medium</description>
+      <description>Read more on Medium
+Check out our GitHub</description>
+    </item>
+    
+    <item>
+      <title>Second Project</title>
+      <link>https://emilygong-zhuying.github.io/projects/secondproject/</link>
+      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/projects/secondproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Third Project</title>
+      <link>https://emilygong-zhuying.github.io/projects/thirdproject/</link>
+      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/projects/thirdproject/</guid>
+      <description></description>
     </item>
     
     

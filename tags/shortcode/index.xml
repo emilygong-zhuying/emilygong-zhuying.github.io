@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>shortcode on emilygong-zhuying</title>
+    <link>https://emilygong-zhuying.github.io/tags/shortcode/</link>
+    <description>Recent content in shortcode on emilygong-zhuying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jun 2022 11:37:41 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Shortcode and Create your Own?</title>
+      <link>https://emilygong-zhuying.github.io/tutorials/embedding/</link>
+      <pubDate>Thu, 30 Jun 2022 11:37:41 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tutorials/embedding/</guid>
+      <description>What is a shortcode? It&amp;rsquo;s basically a block-level html code; you can write shortcodes yourself and find ones online that others have written for you. You have two sets of curly braces and a set of angle brackets { { &amp;lt; short code &amp;gt; } } at the beginning of the shortcode and { { &amp;lt; /short code &amp;gt; } } at the end of the shortcode. (For some reason the website won&amp;rsquo;t compile if I actually type it out correctly, which is without the spaces between each symbols.</description>
+    </item>
+    
+  </channel>
+</rss>
