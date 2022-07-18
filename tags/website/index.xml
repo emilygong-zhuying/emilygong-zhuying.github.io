@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jun 2022 11:37:41 -0700</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Use Shortcode and Create your Own?</title>
-      <link>https://emilygong-zhuying.github.io/tutorials/embedding/</link>
+      <title>🛠 How to Use Shortcodes?</title>
+      <link>https://emilygong-zhuying.github.io/tutorials/shortcode/</link>
       <pubDate>Thu, 30 Jun 2022 11:37:41 -0700</pubDate>
       
-      <guid>https://emilygong-zhuying.github.io/tutorials/embedding/</guid>
+      <guid>https://emilygong-zhuying.github.io/tutorials/shortcode/</guid>
       <description>What is a shortcode? It&amp;rsquo;s basically a block-level html code; you can write shortcodes yourself and find ones online that others have written for you. You have two sets of curly braces and a set of angle brackets { { &amp;lt; short code &amp;gt; } }. (For some reason the website won&amp;rsquo;t compile if I actually type it out correctly, which is without the spaces between each symbols.) Some shortcodes have opening and closing tags like html and some do not.</description>
     </item>
     

@@ -35,20 +35,47 @@
     </item>
     
     <item>
-      <title>DataScience</title>
-      <link>https://emilygong-zhuying.github.io/tags/datascience/</link>
-      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
+      <title>API</title>
+      <link>https://emilygong-zhuying.github.io/tags/api/</link>
+      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
       
-      <guid>https://emilygong-zhuying.github.io/tags/datascience/</guid>
+      <guid>https://emilygong-zhuying.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JupyterNotebook</title>
+      <link>https://emilygong-zhuying.github.io/tags/jupyternotebook/</link>
+      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tags/jupyternotebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://emilygong-zhuying.github.io/tags/python/</link>
+      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spotify</title>
       <link>https://emilygong-zhuying.github.io/tags/spotify/</link>
-      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
+      <pubDate>Wed, 29 Jun 2022 18:46:00 -0700</pubDate>
       
       <guid>https://emilygong-zhuying.github.io/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataScience</title>
+      <link>https://emilygong-zhuying.github.io/tags/datascience/</link>
+      <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/tags/datascience/</guid>
       <description></description>
     </item>
     
