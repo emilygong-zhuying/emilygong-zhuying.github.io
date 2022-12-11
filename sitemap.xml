@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://emilygong-zhuying.github.io/tags/cooking/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://emilygong-zhuying.github.io/tags/datascience/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://emilygong-zhuying.github.io/personal/fall22meals/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/tags/machinelearning/</loc>
@@ -21,12 +15,6 @@
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/tags/nlp/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://emilygong-zhuying.github.io/personal/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://emilygong-zhuying.github.io/tags/photography/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/projects/</loc>
@@ -90,6 +78,12 @@
     <lastmod>2022-06-28T12:16:28-07:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/personal/firstblog/</loc>
+    <lastmod>2022-06-28T12:13:56-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/personal/</loc>
+    <lastmod>2022-06-28T12:13:56-07:00</lastmod>
+  </url><url>
+    <loc>https://emilygong-zhuying.github.io/tags/photography/</loc>
     <lastmod>2022-06-28T12:13:56-07:00</lastmod>
   </url><url>
     <loc>https://emilygong-zhuying.github.io/tags/ucla/</loc>
