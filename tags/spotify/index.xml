@@ -18,12 +18,13 @@
     
     <item>
       <title>Exploring K-pop and BTS Song Popularity with Spotify Audio Features &amp; Song Lyrics</title>
-      <link>https://emilygong-zhuying.github.io/projects/firstproject/</link>
+      <link>https://emilygong-zhuying.github.io/projects/bts/</link>
       <pubDate>Wed, 29 Jun 2022 12:14:32 -0700</pubDate>
       
-      <guid>https://emilygong-zhuying.github.io/projects/firstproject/</guid>
-      <description>Read more on Medium
-Check out our GitHub</description>
+      <guid>https://emilygong-zhuying.github.io/projects/bts/</guid>
+      <description>In this group project I led, we tried to predict K-Pop song’s popularity through machine learning and natural language processing.
+We were first inspired by the BTS 147 Songs Audio Features (Spotify) dataset from Kaggle, but to conduct our analysis, we referred to the following two datasets: the Kpop Artists and Full Spotify Discography and BTS Lyrics dataset (more details in later sections).
+Before proceeding, we extracted the “Popularity” scores Spotify generated for each song we observed through the Spotify API and appended it to the datasets mentioned above.</description>
     </item>
     
   </channel>

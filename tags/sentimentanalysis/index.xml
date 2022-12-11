@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SentimentAnalysis on emilygong-zhuying</title>
+    <link>https://emilygong-zhuying.github.io/tags/sentimentanalysis/</link>
+    <description>Recent content in SentimentAnalysis on emilygong-zhuying</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/tags/sentimentanalysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Analysis with Social Media (Weibo)</title>
+      <link>https://emilygong-zhuying.github.io/projects/weibo/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://emilygong-zhuying.github.io/projects/weibo/</guid>
+      <description>I worked with Professor Mason Porter from UCLA&amp;rsquo;s Math Department on social network analysis, where I modeled a network to examine online community sentiment and behaviors (45k+ posts) under COVID lockdown. After extracting posts through requests and API, I conducted EDA and modeled the network using NetworkX. To examine users&amp;rsquo; sentiments, I developed a deep learning sentiment analysis model for Mandarin Chinese text and achieved an 80+% accuracy.
+Check out my research proposal here or take a peek at my code base here.</description>
+    </item>
+    
+  </channel>
+</rss>
