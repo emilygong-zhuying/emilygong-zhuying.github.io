@@ -14,7 +14,7 @@
       
       <guid>https://emilygong-zhuying.github.io/projects/protests/</guid>
       <description>I&amp;rsquo;m working with Professor Steinert-Threlkeld from UCLA&amp;rsquo;s Public Affairs department to analyze if a superlinearity exists between city population and protest sizes. We are using ACLED dataset for protests across the world and Geonames for population. So far, no correlation has been found between the 2 variables.
-Feel free to check out the gitHub repo.</description>
+Feel free to check out the GitHub repo.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ Feel free to check out the gitHub repo.</description>
       <guid>https://emilygong-zhuying.github.io/projects/timeseries/</guid>
       <description>In this project, I explored Oil Prices for the past 6 years (source) utilizing ARIMA and an state-of-the-art time series linear model.
 Check out my presentation here for to see the results. My ARIMA model achieved an MSE of 5.88 and &amp;lt; 0.01 for LSTF.
-Here&amp;rsquo;s the code for ARIMA models: gitHub repo.</description>
+Here&amp;rsquo;s the code for ARIMA models: GitHub repo.</description>
     </item>
     
     <item>
