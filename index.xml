@@ -6,15 +6,15 @@
     <description>Recent content on emilygong-zhuying</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://emilygong-zhuying.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Opinion Dynamics (REU Project)</title>
+      <title>A Deffuant–Weisbuch Model of Opinion Dynamics with Adaptive Confidence Bounds</title>
       <link>https://emilygong-zhuying.github.io/projects/opiniondynamics/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
       
       <guid>https://emilygong-zhuying.github.io/projects/opiniondynamics/</guid>
-      <description>I participated in the UCLA Computational and Applied Mathematics REU (Research Experience for Undergraduates), funded by the NSF, this summer. I collaborate with a team of 4 to conduct research, design 10+ experiments, build PDE solver with numerical analysis, optimize code, and create visualizations. We simulate Opinions Dynamics in a mathematical network with an adaptive Deffuant–Weisbuch model in Python.
-Here is our final presentation. We are hoping to present our project at JMM 2024 and publish our paper early 2024.</description>
+      <description>I participated in the UCLA Computational and Applied Mathematics REU (Research Experience for Undergraduates), funded by the NSF, in summer 2023. I collaborate with a team of 4 to conduct research, design 10+ experiments, build PDE solver with numerical analysis, optimize code, and create visualizations. Under the mentorship of Mason Porter and Sarah Tymochko, we simulated opinions dynamics in a mathematical network with an adaptive Deffuant–Weisbuch model in Python.
+We presented our poster at The Joint Mathematics Meetings (JMM) 2024 and here is our final proejct presentation.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@ Here&amp;rsquo;s the code for ARIMA models: GitHub repo.</description>
       <pubDate>Wed, 29 Jun 2022 19:30:03 -0700</pubDate>
       
       <guid>https://emilygong-zhuying.github.io/about/</guid>
-      <description>Hey, welcome to my website! My name is Emily Gong, a third year studying Math of Computation and Linguistics at UCLA. I&amp;rsquo;m passionate about data science, machine learning, and project/product management. You can find me on GitHub, LinkedIn, or through Email.</description>
+      <description>Hey, welcome to my website! My name is Zhuying (Emily) Gong, a recent graduate from UCLA with a double major in Math of Computation and Linguistics. I&amp;rsquo;m passionate about linguistics, data science, and NLP. You can find me on GitHub, LinkedIn, or through Email.</description>
     </item>
     
     <item>
